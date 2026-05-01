@@ -41,7 +41,7 @@ hotel-scraper/
 │
 ├── .github/
 ├── tests/
-│   └── scraper.ts
+│   └── scraper.spec.ts
 │
 ├── node_modules/
 ├── playwright-report/
