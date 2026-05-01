@@ -43,9 +43,6 @@ hotel-scraper/
 ├── tests/
 │   └── scraper.spec.ts
 │
-├── node_modules/
-├── playwright-report/
-│
 ├── .gitignore
 ├── package.json
 ├── package-lock.json
