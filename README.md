@@ -39,7 +39,6 @@ The scraper identifies the highest-rated hotel and returns its pricing informati
 ```bash
 hotel-scraper/
 │
-├── .github/
 ├── tests/
 │   └── scraper.spec.ts
 │
